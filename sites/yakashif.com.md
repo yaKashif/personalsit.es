@@ -1,6 +1,6 @@
 ---
 title: 'yaKashif'
 url: 'https://yakashif.com'
-tags: ['indie hacker', 'writer']
+tags: ['writer']
 rss: 'https://yakashif.com/rss.xml'
 ---
